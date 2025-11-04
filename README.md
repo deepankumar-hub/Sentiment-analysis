@@ -3,6 +3,8 @@
 This project focuses on building a Sentiment Analysis model that classifies textual data (IMDB movie reviews) into sentiment categories like Positive and Negative.
 The main goal is to apply Machine Learning algorithms to understand the underlying sentiment in text.
 
+IMDb reviews dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 ## Features
 
 Data preprocessing using HTML tags removal, URL removal, Punctuation removal, stopword removal and vectorization using CountVectorizer and TF-IDF vectorizer.
