@@ -25,11 +25,11 @@ Model Training – Trained multiple models such as:
 
 Logistic Regression
 
-Naïve Bayes
+GaussianNB
 
 Support Vector Machine (SVM)
 
-Random Forest
+Random Forest Classifier
 
 Model Evaluation – Compared performance and selected the best model.
 
