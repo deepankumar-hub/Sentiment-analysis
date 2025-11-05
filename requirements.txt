@@ -5,3 +5,5 @@ re
 string
 nltk
 sklearn
+joblib
+wordcloud
