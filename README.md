@@ -37,7 +37,7 @@ Prediction – Tested model on unseen text samples.
 
 ## Results
 
-Achieved an accuracy of 86% on the test data.
+Achieved an accuracy of 87% on the test data.
 
 The Logistic Regression and SVM model showed best performances with high precision and recall scores.
 
